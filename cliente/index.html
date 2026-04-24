@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>OrderFlow - Sistema de Pedidos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div>
+      <h1>OrderFlow</h1>
+      <p>Sistema de pedidos em tempo real com WebSocket</p>
+    </div>
+    <span id="statusConexao">Conectando...</span>
+  </header>
+
+  <main>
+    <section class="card formulario">
+      <h2>Novo Pedido</h2>
+
+      <label>Cliente</label>
+      <input id="cliente" placeholder="Ex: Maurício">
+
+      <label>Produto</label>
+      <select id="produto">
+        <option>X-Burguer</option>
+        <option>X-Salada</option>
+        <option>Cachorro-quente</option>
+        <option>Batata frita</option>
+        <option>Refrigerante</option>
+      </select>
+
+      <label>Quantidade</label>
+      <input id="quantidade" type="number" min="1" value="1">
+
+      <label>Observação</label>
+      <textarea id="observacao" placeholder="Ex: sem cebola, pouco molho..."></textarea>
+
+      <button onclick="enviarPedido()">Enviar pedido</button>
+    </section>
+
+    <section class="card pedidos">
+      <div class="titulo-lista">
+        <h2>Pedidos em Tempo Real</h2>
+        <small id="contadorPedidos">0 pedidos</small>
+      </div>
+
+      <div id="listaPedidos"></div>
+    </section>
+  </main>
+
+  <audio id="somPedido" src="https://www.soundjay.com/buttons/sounds/button-3.mp3"></audio>
+
+  <script src="app.js"></script>
+</body>
+</html>
