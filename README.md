@@ -7,7 +7,7 @@
 
 ## 📸 Preview do Sistema
 
-<img width="1893" height="558" alt="image" src="https://github.com/user-attachments/assets/42d1ede5-1448-4479-9fba-a25fa117d312" />
+<img width="1896" height="524" alt="preview" src="https://github.com/user-attachments/assets/672c85d7-90c6-4fe9-81c3-c0b47af730b1" />
 
 
 # Sistema de Pedidos em Tempo Real - OrderFlow
