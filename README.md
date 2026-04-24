@@ -7,7 +7,7 @@
 # Sistema de Pedidos em Tempo Real - OrderFlow
 
 ## Disciplina
-Computação Distribuída (CCOM4N)
+Computação Distribuída
 
 ## Autor
 Maurício Gabriel de Oliveira Becker
