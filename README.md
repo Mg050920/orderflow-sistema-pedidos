@@ -1,7 +1,7 @@
 
 ---
 
-# 📄 README 2 (MAIS SIMPLES E DIRETO)
+# 📄 README (MAIS SIMPLES E DIRETO)
 
 ```markdown
 # Sistema de Pedidos em Tempo Real - OrderFlow
