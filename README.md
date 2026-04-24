@@ -1,16 +1,8 @@
-
----
-
-# 📄 README
-
-```markdown
+# 🚀 OrderFlow - Sistema de Pedidos em Tempo Real
 
 ## 📸 Preview do Sistema
 
-<img width="1896" height="524" alt="preview" src="https://github.com/user-attachments/assets/672c85d7-90c6-4fe9-81c3-c0b47af730b1" />
-
-
-# Sistema de Pedidos em Tempo Real - OrderFlow
+![Preview](preview.png)
 
 ## Disciplina
 Computação Distribuída
