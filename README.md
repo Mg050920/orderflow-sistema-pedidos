@@ -4,6 +4,12 @@
 # 📄 README
 
 ```markdown
+
+## 📸 Preview do Sistema
+
+<img width="1893" height="558" alt="image" src="https://github.com/user-attachments/assets/42d1ede5-1448-4479-9fba-a25fa117d312" />
+
+
 # Sistema de Pedidos em Tempo Real - OrderFlow
 
 ## Disciplina
